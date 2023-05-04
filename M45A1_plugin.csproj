@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net46</TargetFramework>
     <AssemblyName>M45A1_plugin</AssemblyName>
-    <Description>My first plugin</Description>
+    <Description>Cool gun</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
